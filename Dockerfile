@@ -7,8 +7,6 @@ COPY package*.json ./
 
 RUN npm install
 
-ENV NODE_PATH=/alt-runner-app/node_modules
-
 COPY . .
 
 # start script that can be executed by calling '$ runScenario xyz'
