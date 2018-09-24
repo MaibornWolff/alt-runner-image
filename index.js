@@ -1,4 +1,4 @@
-const ALT = require('alt-core-js');
+const ALT = require('@maibornwolff/alt-core-js');
 const FS = require('fs');
 
 const RESOURCES = process.env.ALT_SRC;
