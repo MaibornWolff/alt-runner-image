@@ -1,6 +1,6 @@
 # alt-runner-image
 
-Docker-based execution environment for [ALT](https://www.npmjs.com/package/alt-core-js) scenario tests. Enables execution of the scenarios without
+Docker-based execution environment for [ALT](https://www.npmjs.com/package/@maibornwolff/alt-core-js) scenario tests. Enables execution of the scenarios without
 having to provide own `Node` context.
 
 ## Example: Docker CLI
