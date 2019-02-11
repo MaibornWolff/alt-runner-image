@@ -1,6 +1,6 @@
 # alt-runner-image
 
-[![Npm Version](https://img.shields.io/badge/alt--core--js-1.2.20-green.svg)](https://www.npmjs.com/package/@maibornwolff/alt-core-js)
+[![Npm Version](https://img.shields.io/badge/alt--core--js-1.2.23-green.svg)](https://www.npmjs.com/package/@maibornwolff/alt-core-js)
 
 Docker-based execution environment for [ALT](https://www.npmjs.com/package/@maibornwolff/alt-core-js) scenario tests. Enables execution of the scenarios without
 having to provide own `Node` context.
