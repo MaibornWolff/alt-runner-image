@@ -22,5 +22,5 @@ ALT.runMultipleSceanriosWithConfig(
   process.env.OUT_SRC,
   RESOURCES + '/environment',
   { numberOfScenariosRunInParallel: PARALLEL_PROCESSES, environmentNameToBeUsed: ENVIRONMENT },
-  process.argv.slice(2).map(getScenarioPath).join()
+  process.argv.slice(2).map(getScenarioPath)
 );
