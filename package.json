@@ -1,6 +1,6 @@
 {
   "name": "alt-runner-image",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Bartosz Boron <www.github.com/bboron86>",
   "license": "MIT",
   "dependencies": {
-    "@maibornwolff/alt-core-js": "1.9.0"
+    "@maibornwolff/alt-core-js": "1.9.1"
   }
 }
