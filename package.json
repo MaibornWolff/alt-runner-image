@@ -9,6 +9,6 @@
   "author": "Bartosz Boron <www.github.com/bboron86>",
   "license": "MIT",
   "dependencies": {
-    "@maibornwolff/alt-core-js": "1.14.0"
+    "@maibornwolff/alt-core-js": "1.14.1"
   }
 }
